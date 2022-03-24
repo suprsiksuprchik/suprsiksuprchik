@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <b>@suprsiksuprchik</b>
 - 👀 I’m interested in ...<b>coding</b>, music, balisong, marketing, photography, socials and how they work, digital media,
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...different aspects of a website, I want to put things that waterfall or cascade on a website. I also want a hidden button on my website
+- 🌱 I’m currently learning ...coding, ...
+- 💞️ I’m looking to collaborate on ...different aspects of a website, I want to put things that waterfall on a website. I also want a hidden button on my website. I want to know backend web development. 
 - 📫 How to reach me ...charisprouse@gmail.com, or you can find me on socials with same username.
 
 <!---
